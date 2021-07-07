@@ -122,3 +122,44 @@ client.on("ready", () => {
     }
 }), client.login(config.token);
 ```
+
+<h1>HOW TO SETUP</h1>
+
+<h2>Here is simple hello world</h2>
+
+```js
+
+// Algorythme
+var _0x20b8 = ['1590089gLAwFx', 'log', '774346bYIqAp', '786NzsSfH', '91204WXoWqU', '1023106wUDsmi', '1411488XhLdFS', '1FHBjEw', '1608412FpYUhe', '655SXJWlk', 'Hello World!', '12MuTjTp'];
+
+// You need to replace all function that named "_0x31a4" on this exemple by GetString (only on algorythme)
+
+function _0x31a4(_0x3b7ef0, _0x1fd77d) {
+    return _0x31a4 = function (_0x20b8e8, _0x31a4da) {
+        _0x20b8e8 = _0x20b8e8 - 0xcc;
+        var _0x4582a8 = _0x20b8[_0x20b8e8];
+        return _0x4582a8;
+    }, _0x31a4(_0x3b7ef0, _0x1fd77d);
+}
+
+var _0x10dea7 = _0x31a4;
+(function (_0xd62f8b, _0x9f0944) {
+    var _0xbe550d = _0x31a4;
+    while (!![]) {
+        try {
+            var _0x357346 = -parseInt(_0xbe550d(0xd2)) + parseInt(_0xbe550d(0xcf)) + parseInt(_0xbe550d(0xd5)) * parseInt(_0xbe550d(0xce)) + -parseInt(_0xbe550d(0xd0)) + -parseInt(_0xbe550d(0xcd)) * parseInt(_0xbe550d(0xd3)) + parseInt(_0xbe550d(0xd6)) + parseInt(_0xbe550d(0xd1)) * parseInt(_0xbe550d(0xcc));
+            if (_0x357346 === _0x9f0944) break;
+            else _0xd62f8b['push'](_0xd62f8b['shift']());
+        } catch (_0x1911b7) {
+            _0xd62f8b['push'](_0xd62f8b['shift']());
+        }
+    }
+}(_0x20b8, 0xe743b), /* Here is the code: console[_0x10dea7(0xd7)](_0x10dea7(0xd4)) */);
+
+_%_here_%_ // You need to put this string where the code is:
+
+// Like that
+}(_0xABCDE, _0xABCDE), _%_here_%_);
+// Or maby
+}(_0xABCDE, _0xABCDE)); _%_here_%_
+```
