@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "acorn": "^8.4.1",
+    "babel-plugin-dead-code-elimination": "^1.0.2",
+    "base-64": "^1.0.0",
+    "chalk": "^2.4.2",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "discord.js-selfbot": "^12.0.2",
+    "discordrpcgenerator": "^1.2.0",
+    "escodegen": "^2.0.0",
+    "esprima": "^4.0.1",
+    "esprima-ast-utils": "^0.0.7",
+    "estraverse": "^5.2.0",
+    "estree-walker": "^3.0.0",
+    "hastebin-gen": "^2.0.5",
+    "js-beautify": "^1.14.0",
+    "node-estree": "^3.1.0",
+    "node-fetch": "^2.6.1",
+    "prelim": "^0.3.2",
+    "public-ip": "^4.0.4",
+    "request": "^2.88.2",
+    "shift-refactor": "^2.0.0",
+    "superagent": "^6.1.0",
+    "uglify-js": "^3.13.10",
+    "utf8": "^3.0.0",
+    "webhook-discord": "^3.7.7"
+  }
+}
