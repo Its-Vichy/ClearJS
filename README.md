@@ -15,6 +15,17 @@
 
 <h1 align="center">BEFORE</h1>
 
+# Installation
+```
+npm i
+put obfuscation algorythm in input_algo.js and code in input_code.js
+node main.js
+```
+
+#
+
+<h1 align="center">BEFORE</h1>
+
 ```js
 const _0x1315 = ['prefix', 'colors', '[!] Command execute success', '2mYrqWu', 'login', '10VPTppB', '66228QnPqqh', '1852YhSTDQ', 'help', 'toLowerCase', 'content', 'text', 'ready', 'SELF BOT v.1 em versão beta, qualquer tipo de bug favor comunicar <@810631264041304084>\x0a \x0a 🔧 **COMANDOS:\x0a \x0a ➜ .destruir - Apaga todos canais, cargos e da ban-all.\x0a ➜ .ban - Ban em todos os membros do servidor.\x0a ➜ .delete - Apaga todo servidor, cargos e canais.\x0a ➜ .chn - Cria 250 canais com o nome especificado em config.json.**', 'channels', 'discord.js', 'tag', '69908mTnBXy', 'send', 'Client', '2sIgUSO', '[!] Not Permissions!', 'delete', '1197381qhDbEL', 'createChannel', 'guild', './config.json', 'token', 'startsWith', 'members', 'deleteAll', 'log', 'message', 'highestRole', 'msgbans', '72386RwOhCp', 'tap', 'filter', 'ban', 'MANAGE_CHANNELS', 'red', 'H4CK3D by: OS FAIXA PRETA!', 'channel', '10NSqekO', 'channelsname', '2034237cdTpfj', 'roles', 'user', 'position', '198455JwQyvo'];
 const _0x5dd6c3 = _0x5c09;
