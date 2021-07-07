@@ -13,7 +13,9 @@
 
 #
 
-<h1 align="center">BEFORE</h1>
+<h1 align="center">INFORMATION</h1>
+
+**Static javascript analyse using RegEX and AST (abstract syntax tree)**
 
 # Installation
 ```
