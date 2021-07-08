@@ -16,6 +16,7 @@
 <h1 align="center">INFORMATION</h1>
 
 **Static javascript analyse using RegEX and AST (abstract syntax tree)**
+**[Tutoriel here](https://vm.tiktok.com/ZMdXYmJW6/)**
 
 # Installation
 ```
@@ -163,3 +164,5 @@ _%_here_%_ // You need to put this string where the code is:
 // Or maby
 }(_0xABCDE, _0xABCDE)); _%_here_%_
 ```
+
+<img src='https://media.discordapp.net/attachments/859907676992307220/862628429744177152/unknown.png'>
