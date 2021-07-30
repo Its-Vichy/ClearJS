@@ -16,12 +16,12 @@
 <h1 align="center">INFORMATION</h1>
 
 **Static javascript analyse using RegEX and AST (abstract syntax tree)**
-**[Tutoriel here](https://vm.tiktok.com/ZMdXYmJW6/)**
+**[Tutorial here](https://vm.tiktok.com/ZMdXYmJW6/)**
 
 # Installation
 ```
 npm i
-put obfuscation algorythm in input_algo.js and code in input_code.js
+put obfuscation algorithm in input_algo.js and code in input_code.js
 node main.js
 ```
 
